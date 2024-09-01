@@ -1,0 +1,80 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #d3d3d3; /* Ajustado el color de fondo */
+    margin: 15px;
+    font-size: x-small;
+}
+
+h1 {
+    font-size: xxx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -15px;
+    text-align: center;
+    padding-top: 0%;
+    color: #5B4636;
+    text-shadow: 5px 5px 2px yellow;
+}
+
+main {
+    display: flex;
+    justify-content: flex-start; /* Las imágenes a la izquierda y las tarjetas a la derecha */
+    align-items: flex-start;
+}
+
+#images {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column; /* Organiza las imágenes en una columna */
+    gap: 50px; /* Espacio entre las imágenes */
+}
+
+img {
+    max-width: 230px; /* Ajusta el tamaño máximo de las imágenes */
+    height: auto;
+}
+
+#dogs {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    gap: 10px;
+}
+
+.dog-container {
+    width: 205px;
+    height: 250px;
+    background: beige;
+    border-radius: 10px;
+    text-align: center;
+    align-items: center;
+    transition: .5s;
+}
+
+.dog-container:hover {
+    box-shadow: 0 5px 15px rgba(3, 89, 92, .5);
+    transform: translateY(-5px);
+}
+
+#dogs h2 {
+    text-transform: capitalize;
+    margin-top: -10px;
+    color: #5B4636;
+}
+
+#dogs img { 
+    max-width: 180px;
+    max-height: 180px;
+    object-fit: cover;
+    margin: 20px;
+}
+
+#dogs img:hover {
+    transform: scale(1.2);
+}
+
+footer {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(10, 10, 10);
+    text-align: center;
+    margin-top: 10px;
+}

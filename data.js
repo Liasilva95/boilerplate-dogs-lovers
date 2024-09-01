@@ -19,107 +19,107 @@ export default{
     dogs:[
       {
           "id":"1",
-          "image":"https://images.dog.ceo/breeds/spaniel-cocker/n02102318_11221.jpg",
+          "image": "img/spaniel1.png",
           "breed":"spaniel"
         },
       {
           "id":"2",
-          "image":"https://images.dog.ceo/breeds/australian-shepherd/pepper2.jpg",
+          "image":"img/australian-shepherd1.png",
           "breed":"australian-shepherd"
         },
       {
           "id":"3",
-          "image":"https://images.dog.ceo/breeds/finnish-lapphund/mochilamvan.jpg",
+          "image":"img/finnish-lapphund.png",
           "breed":"finnish-lapphund"
         },
       {
           "id":"4",
-          "image":"https://images.dog.ceo/breeds/terrier-silky/n02097658_2022.jpg",
+          "image":"img/terrier1.png",
           "breed":"terrier"
         },
       {
           "id":"5",
-          "image":"https://images.dog.ceo/breeds/spaniel-cocker/n02102318_9254.jpg",
+          "image":"img/spaniel2.png",
           "breed":"spaniel"
         },
       {
           "id":"6",
-          "image":"https://images.dog.ceo/breeds/terrier-sealyham/n02095889_5547.jpg",
+          "image":"img/terrier2.png",
           "breed":"terrier"
         },
       {
           "id":"7",
-          "image":"https://images.dog.ceo/breeds/doberman/n02107142_9621.jpg",
+          "image":"img/doberman1.png",
           "breed":"doberman"
         },
       {
           "id":"8",
-          "image":"https://images.dog.ceo/breeds/australian-shepherd/leroy.jpg",
+          "image":"img/australian-shepherd2.png",
           "breed":"australian-shepherd"
         },
       {
           "id":"9",
-          "image":"https://images.dog.ceo/breeds/spaniel-cocker/n02102318_12265.jpg",
+          "image":"img/spaniel3.png",
           "breed":"spaniel"
         },
       {
           "id":"10",
-          "image":"https://images.dog.ceo/breeds/terrier-australian/n02096294_8268.jpg",
+          "image":"img/terrier3.png",
           "breed":"terrier"
         },
       {
           "id":"11",
-          "image":"https://images.dog.ceo/breeds/waterdog-spanish/20180723_185559.jpg",
+          "image":"img/waterdog-spanish.png",
           "breed":"waterdog-spanish"
         },
       {
           "id":"12",
-          "image":"https://images.dog.ceo/breeds/mountain-swiss/n02107574_2352.jpg",
+          "image":"img/mountain-swiss.png",
           "breed":"mountain-swiss"
         },
       {
           "id":"13",
-          "image":"https://images.dog.ceo/breeds/terrier-border/n02093754_234.jpg",
+          "image":"img/terrier4.png",
           "breed":"terrier"
         },
       {
           "id":"14",
-          "image":"https://images.dog.ceo/breeds/labrador/n02099712_4965.jpg",
+          "image":"img/labrador1.png",
           "breed":"labrador"
         },
       {
           "id":"15",
-          "image":"https://images.dog.ceo/breeds/bullterrier-staffordshire/n02093256_11023.jpg",
+          "image":"img/bullterrier.png",
           "breed":"bullterrier"
         },
       {
           "id":"16",
-          "image":"https://images.dog.ceo/breeds/doberman/n02107142_5783.jpg",
+          "image":"img/doberman2.png",
           "breed":"doberman"
         },
       {
           "id":"17",
-          "image":"https://images.dog.ceo/breeds/spaniel-brittany/n02101388_733.jpg",
+          "image":"img/spaniel4.png",
           "breed":"spaniel"
         },
       {
           "id":"18",
-          "image":"https://images.dog.ceo/breeds/chihuahua/n02085620_1492.jpg",
+          "image":"img/chihuahua1.png",
           "breed":"chihuahua"
         },
       {
           "id":"19",
-          "image":"https://images.dog.ceo/breeds/chihuahua/n02085620_3877.jpg",
+          "image":"img/chihuahua2.png",
           "breed":"chihuahua"
         },
       {
           "id":"20",
-          "image":"https://images.dog.ceo/breeds/husky/n02110185_13197.jpg",
+          "image":"img/husky.png",
           "breed":"husky"
         },
       {
           "id":"21",
-          "image":"https://images.dog.ceo/breeds/labrador/n02099712_9374.jpg",
+          "image":"img/labrador2.png",
           "breed":"labrador"
         }
     ]
